@@ -12,4 +12,4 @@ Afterwards enter the following command to build and install st (if necessary as 
 ```
 
 ### Patches
-Scroll-back, translucency, dynamic sizing
+scroll-back, alpha, anysize
